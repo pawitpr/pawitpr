@@ -3,19 +3,15 @@
 </div>  
   
 
-### **<div align="center">I'm PawitAnandSahare and i'm professional backend dev ,and also Learning Networking *  
-  - Note shifting to new account pawitv
+### **<div align="center">I'm PawitAnandSahare , just a human
 
 - 🔭 I’m currently working on P2P File share app  
-  
-
-- 🌱 I’m currently learning P2P , TCP punch hole , Rust  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use Neovim as ide  
+- ⚡ Fun fact: Rust programming language is that its compiler is written in Rust
   
 
 <br/>  
