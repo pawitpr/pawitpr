@@ -5,10 +5,10 @@
 
 ### **<div align="center">I'm PawitAnandSahare , just a human
 
-- 🔭 I’m currently working on P2P File share app  
+- 🔭 FullStact
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN stack and related technologies l 
   
 
 - ⚡ Fun fact: Rust programming language is that its compiler is written in Rust
@@ -129,10 +129,5 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+ 
 <br />
