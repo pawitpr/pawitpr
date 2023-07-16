@@ -5,7 +5,7 @@
 
 ### **<div align="center">I'm PawitAnandSahare , just a human
 
-- 🔭 FullStact
+- 🔭 FullStack
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies l 
