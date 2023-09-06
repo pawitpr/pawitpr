@@ -3,7 +3,7 @@
 </div>  
   
 
-### **<div align="center">I'm PawitAnandSahare , just a human
+### **<div align="center">I'm PawitAnandSahare 
 
 - 🔭 FullStack, Networking & System Programing,
   
